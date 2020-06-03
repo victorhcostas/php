@@ -1,5 +1,5 @@
 <?php
 
-  echo "Sente o Romco <strong>BRBRBRBRBRBR</strong>"
+  echo "Meu primeiro programa! <strong>HELLO WORLD</strong>"
 
   ?>
