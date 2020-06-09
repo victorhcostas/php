@@ -28,6 +28,7 @@ class Endereco {
 
 }
 
+//instanciei um novo objeto da classe "Endereco" utilizando o metodo construtor
 $meuEndereco = new Endereco("Rua Ademar Saraiva Leao", "123", "Santo");
 
 /*var_dump($meuEndereco);
