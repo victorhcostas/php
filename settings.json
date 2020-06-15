@@ -1,0 +1,37 @@
+{
+    //Define o tema do VSCode
+    "workbench.colorTheme": "Dracula",
+
+    //Auementa  a fonted o terminal
+    "terminal.integrated.fontSize": 14,
+
+    //Define o tema dos icones na sidebar
+    "workbench.iconTheme": "material-icon-theme",
+    "workbenche.startupEditor": "newUntitledFile",
+    "editor.lineHeight": 20,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+
+
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.fontSize": 14,
+    "git.suggestSmartCommit": false,
+    
+
+}
