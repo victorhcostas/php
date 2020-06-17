@@ -1,0 +1,15 @@
+{
+    "name": "victorhcostas/40-composer",
+    "description": "Aula de PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Victor Costa",
+            "email": "victor99costa@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
